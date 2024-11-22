@@ -1,0 +1,59 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+header {
+    background-color: #824555;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+h2 {
+    margin: 0;
+}
+#gora {
+    display: flex;
+}
+#goralewa,
+#gorasrodek {
+    background-color: #A26475;
+    color: white;
+    width: 30%;
+    height: 300px;
+}
+
+#goraprawa {
+    background-color: #A26475;
+    color: white;
+    width: 40%;
+    height: 300px;
+    text-align: right;
+}
+
+#glowny {
+    background-color: #F0EAE2;
+    padding: 50px;
+}
+#red {
+    background-color: red;
+}
+#green {
+    background-color: green;
+}
+#blue {
+    background-color: blue;
+}
+table, th, td {
+    border: 2px solid #69293A;
+    padding: 7px;
+    border-collapse: collapse;
+}
+footer {
+    background-color: #824555;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+#footer {
+    font-style: italic;
+}
